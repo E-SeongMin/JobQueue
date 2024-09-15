@@ -4,8 +4,6 @@
 # 참고
 https://bb-library.tistory.com/248
 <br>
-https://kotlinworld.com/531#Mutex%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0-1
-<br>
 https://kotlinworld.com/530
 
 # 화면
